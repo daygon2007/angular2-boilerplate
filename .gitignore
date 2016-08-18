@@ -1,6 +1,8 @@
 .idea
 typings/**
 node_modules
+bower_components
+.c9
 jspm_packages
 link-checker-results.txt
 **/*npm-debug.log.*
